@@ -1,0 +1,79 @@
+[
+  {
+    "Constant" : [
+
+    ],
+    "submodules" : [
+
+    ],
+    "Function" : [
+
+    ],
+    "Variable" : [
+
+    ],
+    "stripped_doc" : [
+
+    ],
+    "desc" : "Keybindings cheatsheet for current application",
+    "Deprecated" : [
+
+    ],
+    "type" : "Module",
+    "Constructor" : [
+
+    ],
+    "doc" : "Keybindings cheatsheet for current application\n\nDownload: [https:\/\/github.com\/Hammerspoon\/Spoons\/raw\/master\/Spoons\/KSheet.spoon.zip](https:\/\/github.com\/Hammerspoon\/Spoons\/raw\/master\/Spoons\/KSheet.spoon.zip)",
+    "items" : [
+      {
+        "doc" : "Toggle the cheatsheet webview",
+        "stripped_doc" : [
+          "Toggle the cheatsheet webview"
+        ],
+        "parameters" : [
+
+        ],
+        "def" : "KSheet:toggle()",
+        "notes" : [
+
+        ],
+        "signature" : "KSheet:toggle()",
+        "type" : "Method",
+        "returns" : [
+
+        ],
+        "name" : "toggle",
+        "desc" : "Toggle the cheatsheet webview"
+      }
+    ],
+    "Method" : [
+      {
+        "doc" : "Toggle the cheatsheet webview",
+        "stripped_doc" : [
+          "Toggle the cheatsheet webview"
+        ],
+        "parameters" : [
+
+        ],
+        "def" : "KSheet:toggle()",
+        "notes" : [
+
+        ],
+        "signature" : "KSheet:toggle()",
+        "type" : "Method",
+        "returns" : [
+
+        ],
+        "name" : "toggle",
+        "desc" : "Toggle the cheatsheet webview"
+      }
+    ],
+    "Command" : [
+
+    ],
+    "Field" : [
+
+    ],
+    "name" : "KSheet"
+  }
+]
